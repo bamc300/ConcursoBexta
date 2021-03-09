@@ -1,0 +1,5 @@
+              # Información
+              Laboratorio basico de GIT y GITHUB
+              Realizado por: "Bryant Aldonso Moncada Contreras"
+              Profesión: "Estudiante Ingenieria de Sistemas y Computacion. Estudiante de Hacking Etico"
+              Motivación: "Soy un desarrollador Full-stack (Front-End y Back-end) en el lenguaje Node.js, siempre me ha gustado el desarrollo de aplicativos, principalmente en entornos Web. Soy entuciasta e investigador de nuevas tecnologias de desarrollo, me gusta aprender lenguajes nuevos de programacion, e identificar que beneficios me traen y que facilidades trae este lenguaje para poderlo utilizar en algun aplicativo. Ya me encuentro finalizando el ciclo universitario y me he enfocado en dos sectores el cual son el Hackin etico (en ser Pentester y forencia informatica). Como tambien en el desarrollo de aplicaciones en todo su cilo de vida con distintas metodologias agiles."
